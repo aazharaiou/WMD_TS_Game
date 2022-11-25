@@ -1,6 +1,6 @@
 {
-  "name": "tsgame",
-  "version": "1.0.0",
+  "name": "aztsgame",
+  "version": "1.0.1",
   "description": "",
   "type": "module",
   "main": "dist/index.js",
@@ -23,6 +23,6 @@
     "inquirer": "^9.1.4"
   },
   "bin": {
-    "tsgame": "dist/index.js"
+    "aztsgame": "dist/index.js"
   }
 }
